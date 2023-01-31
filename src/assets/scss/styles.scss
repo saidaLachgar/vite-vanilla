@@ -1,0 +1,14 @@
+@import "compontent";
+
+body {
+  padding: 1.5rem;
+  background-color: lightblue;
+  font-family: "Proxima Nova Rg", Arial, Helvetica, sans-serif;
+  a {
+    color: #fff;
+  }
+}
+a {
+  margin: 2rem 2rem 0.5rem 0;
+  display: inline-block;
+}
