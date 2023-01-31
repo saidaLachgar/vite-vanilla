@@ -1,6 +1,6 @@
 ## How to use
 
 ```sh
-npm install
-npm start
+yarn 
+yarn dev
 ```
